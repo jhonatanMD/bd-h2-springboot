@@ -1,0 +1,4 @@
+insert into persona ( apellido, nombre) values ('JHONATAN','MALLQUI DIAZ');
+insert into persona (apellido, nombre) values ('JUAN', 'SUAREZ RUIZ');
+insert into persona ( apellido, nombre) values ('PEPE', 'GALVEZ SOLIZ');
+insert into persona ( apellido, nombre) values ('RAUL', 'RUIZ DIAZ');
